@@ -5,7 +5,7 @@ pandas
 Pillow
 gradio
 google-genai
-pinecone-client
+pinecone
 cohere
 python-dotenv
 python-dateutil

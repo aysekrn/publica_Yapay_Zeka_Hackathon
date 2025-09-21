@@ -344,6 +344,13 @@ def update_interface(pdf_file):
     
     return pdf_file, df
 
+def load_example_pdf():
+    """Örnek PDF dosyasını yükler"""
+    example_pdf_path = "Enabiz-Tahlilleri.pdf"
+    if os.path.exists(example_pdf_path):
+        return example_pdf_path
+    return None
+
 def create_interface():
     with gr.Blocks(title="Publica - Tıbbi Rapor Analizi", theme=gr.themes.Soft(), css="""
         .pdf-nav-row {
@@ -501,11 +508,20 @@ def create_interface():
         with gr.Row():
             with gr.Column(scale=1):
                 gr.Markdown("## 📖 Laboratuvar Raporu Önizleme")
-                pdf_preview = gr.File(
-                    label="Laboratuvar Raporu Seçin",
-                    file_types=[".pdf"],
-                    type="filepath"
-                )
+                
+                with gr.Group():
+                    pdf_preview = gr.File(
+                        label="Laboratuvar Raporu Seçin",
+                        file_types=[".pdf"],
+                        type="filepath"
+                    )
+                
+                with gr.Group():
+                    example_btn = gr.Button(
+                        "📄 Örnek PDF ile Başla",
+                        variant="primary",
+                        size="lg"
+                    )
                 
                 pdf_display = gr.Image(
                     label="Rapor Sayfası",
@@ -566,6 +582,13 @@ def create_interface():
                         visible=False,
                         elem_classes="analysis-result"
                     )
+        
+        def load_example():
+            """Örnek PDF dosyasını yükler"""
+            example_path = load_example_pdf()
+            if example_path:
+                return example_path
+            return None
         
         def on_pdf_upload(pdf_file):
             if pdf_file is None:
@@ -719,6 +742,15 @@ def create_interface():
             fn=go_to_next_page,
             inputs=[pdf_pages, current_page],
             outputs=[pdf_display, current_page, page_info, prev_btn, next_btn]
+        )
+        
+        example_btn.click(
+            fn=load_example,
+            outputs=[pdf_preview]
+        ).then(
+            fn=on_pdf_upload,
+            inputs=[pdf_preview],
+            outputs=[pdf_display, pdf_pages, current_page, page_info, prev_btn, next_btn]
         )
     
     return demo
