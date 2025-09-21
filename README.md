@@ -1,38 +1,38 @@
-# 🏥 Publica - Tıbbi Rapor Analizi
+#  Publica - Tıbbi Rapor Analizi
 
 Laboratuvar raporlarını otomatik olarak analiz eden ve anormal değerleri tespit eden yapay zeka destekli bir tıbbi analiz platformu. PDF formatındaki laboratuvar raporlarını işleyerek, sağlık durumu hakkında detaylı analiz raporları sunar.
 
-## 🎯 Ne Yapıyor?
+##  Ne Yapıyor?
 
 Bu proje ile:
-- ⚡ Laboratuvar raporlarını hızlıca analiz edebilirsiniz
-- 🔍 Anormal değerleri otomatik olarak tespit eder
-- 📊 Sonuçları düzenli tablolar halinde sunar
-- 🏥 Tıbbi öneriler ve açıklamalar sağlar
-- 📱 Web arayüzü ile kolay kullanım
+-  Laboratuvar raporlarını hızlıca analiz edebilirsiniz
+-  Anormal değerleri otomatik olarak tespit eder
+-  Sonuçları düzenli tablolar halinde sunar
+-  Tıbbi öneriler ve açıklamalar sağlar
+-  Web arayüzü ile kolay kullanım
 
-## 🔧 Nasıl Çalışıyor?
+##  Nasıl Çalışıyor?
 
-### 📄 PDF İşleme
+###  PDF İşleme
 - **PDF'den Tablo Çıkarma**: Docling kütüphanesi ile PDF'deki tabloları otomatik olarak çıkarır
 - **Veri Temizleme**: Gereksiz bilgileri filtreler ve sadece laboratuvar değerlerini alır
 - **Tablo Birleştirme**: Birden fazla tabloyu tek tabloda birleştirir
 - **Sayfa Görüntüleme**: PDF sayfalarını görüntü olarak gösterir
 
-### 🤖 AI Analiz
+###  AI Analiz
 - **Anormal Değer Tespiti**: Normal aralıkların dışındaki değerleri otomatik bulur
 - **Referans Bilgileri**: 100+ laboratuvar testi için detaylı açıklamalar
 - **Tıbbi Öneriler**: Her anormal değer için spesifik açıklamalar
 - **Tedavi Rehberi**: Hangi doktora başvurulması gerektiği konusunda bilgi
 
-### 🎨 Web Arayüzü
+###  Web Arayüzü
 - **PDF Önizleme**: Sayfa sayfa PDF görüntüleme
 - **Navigasyon**: Önceki/sonraki sayfa butonları
 - **Veri Çıkarma**: Tek tıkla tablo çıkarma
 - **Analiz**: AI ile kapsamlı tıbbi analiz
 - **İndirme**: CSV formatında sonuç indirme
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **Python**: Ana programlama dili
 - **Docling**: PDF'den tablo çıkarma
@@ -43,7 +43,7 @@ Bu proje ile:
 - **Pinecone**: Vector database
 - **Cohere**: Reranking
 
-## 📊 Örnek Çıktı
+##  Örnek Çıktı
 
 Laboratuvar değerleri şu şekilde analiz edilir:
 ```text
@@ -58,7 +58,7 @@ Gilbert Sendromu: İyi huylu, kalıtsal bir durum (genellikle direkt bilirubin n
 Bazı İlaçlar: Bazı ilaçlar karaciğer fonksiyonlarını etkileyerek bilirubin seviyesini artırabilir.
 ```
 
-## 🖼️ Proje Görselleri
+##  Proje Görselleri
 
 ### Ana Arayüz
 ![Ana Arayüz](images/1.png)
@@ -75,7 +75,7 @@ Bazı İlaçlar: Bazı ilaçlar karaciğer fonksiyonlarını etkileyerek bilirub
 ### Detaylı Tıbbi Analiz
 ![Tıbbi Analiz](images/5.png)
 
-## 🎯 Kimler Kullanabilir?
+##  Kimler Kullanabilir?
 
 - **Hastalar**: Laboratuvar sonuçlarını anlamak için
 - **Tıp Öğrencileri**: Vaka analizi ve öğrenme için
