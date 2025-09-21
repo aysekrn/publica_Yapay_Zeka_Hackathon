@@ -1,0 +1,38 @@
+TSH
+TSH Yüksekliği Ne Anlama Gelir?
+Yüksek TSH seviyesi, hipotiroidi olarak bilinen tiroid bezinin yetersiz çalıştığı anlamına gelir. Hipofiz beziniz, tiroid bezini daha fazla hormon üretmesi için zorlamak amacıyla daha fazla TSH salgılamaktadır, ancak tiroid bezi bu sinyale yeterince cevap verememektedir.
+
+Olası Nedenler:
+
+Hashimoto Tiroiditi: Hipotiroidinin en yaygın nedenidir. Bağışıklık sistemi tiroid bezine saldırır ve onu hasara uğratır.
+
+Tiroid Bezinin Alınması: Cerrahi olarak tiroid bezinin bir kısmının veya tamamının çıkarılması.
+
+Tiroid İlaçlarının Yetersiz Kullanımı: Hipotiroidi tedavisi gören hastaların ilaçlarını yeterli dozda veya düzenli kullanmaması.
+
+Doğuştan Gelen Tiroid Anomalileri: Tiroid bezinin doğuştan yetersiz gelişmesi.
+
+Nasıl Düzeltilir?
+Yüksek TSH seviyesini düşürmek için altta yatan hipotiroidi tedavisini yapmak gerekir. Bu, genellikle tiroid hormonu takviyeleri (levotiroksin) ile yapılır.
+
+Tiroid Hormon Takviyesi: Doktorunuzun reçete ettiği ilacı her gün aynı saatte ve genellikle aç karnına düzenli olarak kullanmak, tiroid hormonu seviyelerini normalleştirerek TSH'nin düşmesini sağlar.
+
+Düzenli Kontrol: İlaç dozunun doğru ayarlandığından emin olmak için doktorunuzla düzenli olarak takip testleri yaptırmak önemlidir.
+
+TSH Düşüklüğü Ne Anlama Gelir?
+Düşük TSH seviyesi, hipertiroidi olarak bilinen tiroid bezinin aşırı aktif çalıştığı anlamına gelir. Vücudunuzda zaten çok fazla tiroid hormonu olduğu için, hipofiz bezi tiroid bezine daha fazla hormon üretmemesi için TSH üretimini azaltır.
+
+Olası Nedenler:
+
+Graves Hastalığı: Hipertiroidinin en yaygın nedenidir. Bağışıklık sistemi, tiroid bezini aşırı hormon üretmesi için uyarır.
+
+Tiroid Nodülleri: Tiroid bezinde aşırı hormon üreten iyi huylu nodüllerin varlığı.
+
+Aşırı Tiroid İlacı Kullanımı: Tiroid hormonu takviyesini yüksek dozda almak.
+
+Nasıl Düzeltilir?
+Düşük TSH seviyesini yükseltmek için öncelikle hipertiroidi tedavisini yapmak esastır.
+
+Antitiroid İlaçlar: Bu ilaçlar, tiroid bezinin hormon üretimini azaltarak TSH seviyesinin yükselmesini sağlar.
+
+Tiroid Hormon Takviyesinin Gözden Geçirilmesi: Eğer düşük TSH seviyesi ilaç kullanımına bağlıysa, doktorunuzla konuşarak ilaç dozunun düşürülmesi gerekir.

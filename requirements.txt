@@ -1,0 +1,11 @@
+docling
+docling-core
+PyMuPDF
+pandas
+Pillow
+gradio
+google-genai
+pinecone-client
+cohere
+python-dotenv
+python-dateutil

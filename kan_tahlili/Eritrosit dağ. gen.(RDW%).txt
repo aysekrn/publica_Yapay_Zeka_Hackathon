@@ -1,0 +1,22 @@
+RDW Yüksekliği Ne Anlama Gelir?
+Yüksek bir RDW seviyesi, kanınızdaki kırmızı kan hücrelerinin boyutlarının normalden daha değişken olduğu anlamına gelir. Bu, hem çok küçük hem de çok büyük hücrelerin bir arada bulunduğunu gösterir ve genellikle vücudunuzun kan hücresi üretiminde bir sorun olduğuna işaret eder.
+
+Olası Nedenler:
+
+Demir Eksikliği Anemisi: En sık rastlanan nedendir. Vücut yeterli demir almadığında, yeni üretilen kırmızı kan hücreleri normalden daha küçük olur. Bu, dolaşımda hem normal hem de küçük hücrelerin bir arada bulunmasına ve RDW'nin yükselmesine neden olur.
+
+B12 veya Folat Eksikliği Anemisi: Vücutta B12 vitamini veya folat eksikliği, kemik iliğinin normalden daha büyük kırmızı kan hücreleri üretmesine neden olur. Bu da, dolaşımda farklı boyutlarda hücrelerin bulunmasına yol açar.
+
+Hemolitik Anemi: Kırmızı kan hücrelerinin normalden daha hızlı yıkıldığı durumlarda, kemik iliği yeni hücreleri farklı boyutlarda üretebilir.
+
+Kronik Hastalıklar: Kronik böbrek hastalığı veya karaciğer hastalığı gibi durumlar.
+
+Ne Yapılmalıdır?
+Yüksek RDW seviyesi, bir anemi türünün veya altta yatan başka bir hastalığın göstergesi olabilir. Kesin tanı için bir doktora danışmak önemlidir.
+
+Doktor Kontrolü: Doktorunuz, yüksek RDW'nin nedenini belirlemek için diğer kan değerlerinizi (özellikle MCV, MCH, demir, B12, folat) değerlendirecektir.
+
+Ek Testler: Gerekirse, altta yatan nedeni bulmak için ek kan testleri veya kemik iliği biyopsisi gibi daha ileri testler istenebilir.
+
+RDW Düşüklüğü Ne Anlama Gelir?
+RDW düşüklüğü nadiren görülür ve genellikle klinik olarak anlamlı kabul edilmez. Bu, kırmızı kan hücrelerinin boyutlarının çok homojen (birbirine çok benzeyen) olduğu anlamına gelir. Bu durum genellikle olumlu bir bulgudur ve endişe edilecek bir durum değildir.
